@@ -1,19 +1,28 @@
-﻿# [TMS320F2837](https://github.com/sochub/TMS320F2837)
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 厂商：[TI](http://www.ti.com)
-#### 归属：[DSP](https://github.com/sochub/FPGA)
-#### 芯片定级：[Level](https://github.com/sochub/Level)
-## [描述](https://github.com/sochub/TMS320F2837/wiki) 
+﻿# [MM32W373](https://github.com/SoCXin/MM32W373)
+
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+
+#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M3](https://github.com/SoCXin/CM3)
+#### [Level](https://github.com/SoCXin/Level)：96MHz
+
+## [描述](https://github.com/SoCXin/MM32W373/wiki)
+
+[MM32W373](https://github.com/SoCXin/MM32W373)
+
+[![sites](docs/MM32W373.png)](https://github.com/SoCXin/MM32W373)
+
+### 关键特性：
 
 
-### [收录资源](https://github.com/sochub/TMS320F2837)
+
+### [资源收录](https://github.com/SoCXin/MM32W373)
 
 * [文档](docs/)
 * [资源](src/)
 
-
-### [选型建议](https://github.com/sochub)
-
+### [选型建议](https://github.com/SoCXin)
 
 
-##  [SoC资源平台](http://www.qitas.cn)  
+
+###  [SoC芯平台](http://www.SoC.Xin)
