@@ -2,13 +2,13 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
+#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mindmotion.com.cn/)
 #### [Core](https://github.com/SoCXin/Cortex)：[Cortex M3](https://github.com/SoCXin/CM3)
 #### [Level](https://github.com/SoCXin/Level)：96MHz
 
 ## [描述](https://github.com/SoCXin/MM32W373/wiki)
 
-[MM32W373](https://github.com/SoCXin/MM32W373)
+[MM32W373](https://github.com/SoCXin/MM32W373) 带有CAN的BLE MCU
 
 [![sites](docs/MM32W373.png)](https://github.com/SoCXin/MM32W373)
 
@@ -23,6 +23,9 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
+* [MM32W051](https://github.com/SoCXin/MM32W051)
+* [MM32W073](https://github.com/SoCXin/MM32W073)
+* [MM32W373](https://github.com/SoCXin/MM32W373)
 
 
 ###  [SoC芯平台](http://www.SoC.Xin)
