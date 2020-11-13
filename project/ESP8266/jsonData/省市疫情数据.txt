@@ -1,0 +1,209 @@
+/* 4000Bytes */
+#define api_type  "SSL"
+#define api_port  "443"
+#define api_ip    "47.102.117.253"
+#define api_addr  "https://lab.isaaclin.cn//nCoV/api/area?latest=1&province=%E5%8C%97%E4%BA%AC%E5%B8%82"
+
+{
+    "results": [
+        {
+            "locationId": 110000, 
+            "continentName": "亚洲", 
+            "continentEnglishName": "Asia", 
+            "countryName": "中国", 
+            "countryEnglishName": "China", 
+            "countryFullName": null, 
+            "provinceName": "北京市", 
+            "provinceEnglishName": "Beijing", 
+            "provinceShortName": "北京", 
+            "currentConfirmedCount": 52, 
+            "confirmedCount": 645, 
+            "suspectedCount": 164, 
+            "curedCount": 584, 
+            "deadCount": 9, 
+            "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。", 
+            "cities": [
+                {
+                    "cityName": "丰台区", 
+                    "currentConfirmedCount": 75, 
+                    "confirmedCount": 78, 
+                    "suspectedCount": 0, 
+                    "curedCount": 3, 
+                    "deadCount": 0, 
+                    "locationId": 110106, 
+                    "cityEnglishName": "Fengtai District"
+                }, 
+                {
+                    "cityName": "朝阳区", 
+                    "currentConfirmedCount": 75, 
+                    "confirmedCount": 75, 
+                    "suspectedCount": 0, 
+                    "curedCount": 0, 
+                    "deadCount": 0, 
+                    "locationId": 110105, 
+                    "cityEnglishName": "Chaoyang District"
+                }, 
+                {
+                    "cityName": "海淀区", 
+                    "currentConfirmedCount": 64, 
+                    "confirmedCount": 64, 
+                    "suspectedCount": 0, 
+                    "curedCount": 0, 
+                    "deadCount": 0, 
+                    "locationId": 110108, 
+                    "cityEnglishName": "Haidian District"
+                }, 
+                {
+                    "cityName": "西城区", 
+                    "currentConfirmedCount": 55, 
+                    "confirmedCount": 55, 
+                    "suspectedCount": 0, 
+                    "curedCount": 0, 
+                    "deadCount": 0, 
+                    "locationId": 110102, 
+                    "cityEnglishName": "Xicheng District"
+                }, 
+                {
+                    "cityName": "大兴区", 
+                    "currentConfirmedCount": 27, 
+                    "confirmedCount": 43, 
+                    "suspectedCount": 0, 
+                    "curedCount": 16, 
+                    "deadCount": 0, 
+                    "locationId": 110115, 
+                    "cityEnglishName": "Daxing District"
+                }, 
+                {
+                    "cityName": "外地来京", 
+                    "currentConfirmedCount": 23, 
+                    "confirmedCount": 25, 
+                    "suspectedCount": 0, 
+                    "curedCount": 2, 
+                    "deadCount": 0, 
+                    "locationId": 0
+                }, 
+                {
+                    "cityName": "昌平区", 
+                    "currentConfirmedCount": 19, 
+                    "confirmedCount": 29, 
+                    "suspectedCount": 0, 
+                    "curedCount": 10, 
+                    "deadCount": 0, 
+                    "locationId": 110114, 
+                    "cityEnglishName": "Changping District"
+                }, 
+                {
+                    "cityName": "通州区", 
+                    "currentConfirmedCount": 18, 
+                    "confirmedCount": 19, 
+                    "suspectedCount": 0, 
+                    "curedCount": 1, 
+                    "deadCount": 0, 
+                    "locationId": 110112, 
+                    "cityEnglishName": "Tongzhou District"
+                }, 
+                {
+                    "cityName": "房山区", 
+                    "currentConfirmedCount": 14, 
+                    "confirmedCount": 17, 
+                    "suspectedCount": 0, 
+                    "curedCount": 3, 
+                    "deadCount": 0, 
+                    "locationId": 110111, 
+                    "cityEnglishName": "Fangshan District"
+                }, 
+                {
+                    "cityName": "东城区", 
+                    "currentConfirmedCount": 13, 
+                    "confirmedCount": 14, 
+                    "suspectedCount": 0, 
+                    "curedCount": 1, 
+                    "deadCount": 0, 
+                    "locationId": 110101, 
+                    "cityEnglishName": "Dongcheng District"
+                }, 
+                {
+                    "cityName": "怀柔区", 
+                    "currentConfirmedCount": 7, 
+                    "confirmedCount": 7, 
+                    "suspectedCount": 0, 
+                    "curedCount": 0, 
+                    "deadCount": 0, 
+                    "locationId": 110116, 
+                    "cityEnglishName": "Huairou District"
+                }, 
+                {
+                    "cityName": "密云区", 
+                    "currentConfirmedCount": 7, 
+                    "confirmedCount": 7, 
+                    "suspectedCount": 0, 
+                    "curedCount": 0, 
+                    "deadCount": 0, 
+                    "locationId": 110118, 
+                    "cityEnglishName": "Miyun District"
+                }, 
+                {
+                    "cityName": "石景山区", 
+                    "currentConfirmedCount": 5, 
+                    "confirmedCount": 14, 
+                    "suspectedCount": 0, 
+                    "curedCount": 9, 
+                    "deadCount": 0, 
+                    "locationId": 110107, 
+                    "cityEnglishName": "Shijingshan District"
+                }, 
+                {
+                    "cityName": "境外输入", 
+                    "currentConfirmedCount": 1, 
+                    "confirmedCount": 174, 
+                    "suspectedCount": 3, 
+                    "curedCount": 173, 
+                    "deadCount": 0, 
+                    "locationId": 0
+                }, 
+                {
+                    "cityName": "门头沟区", 
+                    "currentConfirmedCount": 1, 
+                    "confirmedCount": 3, 
+                    "suspectedCount": 0, 
+                    "curedCount": 2, 
+                    "deadCount": 0, 
+                    "locationId": 110109, 
+                    "cityEnglishName": "Mentougou District"
+                }, 
+                {
+                    "cityName": "延庆区", 
+                    "currentConfirmedCount": 1, 
+                    "confirmedCount": 1, 
+                    "suspectedCount": 0, 
+                    "curedCount": 0, 
+                    "deadCount": 0, 
+                    "locationId": 110119, 
+                    "cityEnglishName": "Yanqing District"
+                }, 
+                {
+                    "cityName": "顺义区", 
+                    "currentConfirmedCount": 0, 
+                    "confirmedCount": 10, 
+                    "suspectedCount": 0, 
+                    "curedCount": 10, 
+                    "deadCount": 0, 
+                    "locationId": 110113, 
+                    "cityEnglishName": "Shunyi District"
+                }, 
+                {
+                    "cityName": "待明确地区", 
+                    "currentConfirmedCount": -353, 
+                    "confirmedCount": 10, 
+                    "suspectedCount": 0, 
+                    "curedCount": 354, 
+                    "deadCount": 9, 
+                    "locationId": 0, 
+                    "cityEnglishName": "Area not defined"
+                }
+            ], 
+            "updateTime": 1592132882555
+        }
+    ], 
+    "success": true
+}

@@ -1,0 +1,38 @@
+/* 4000Bytes */
+#define api_type  "SSL"
+#define api_port  "443"
+#define api_ip    "47.102.117.253"
+#define api_addr  "https://lab.isaaclin.cn/nCoV/api/news"
+
+{
+    "results": [
+        {
+            "pubDate": "1592130942000", 
+            "title": "土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加", 
+            "summary": "当地时间6月14日，土耳其举行国防大学招生考试，超过45万名考生参加考试。土耳其媒体称，所有的考场都进行了消毒，考场入口处，准备了消毒水、口罩、洗手液，供考生使用。监考官佩戴手套分发试卷，考生在进入考场，坐在自己座位上后，可以摘下口罩。", 
+            "infoSource": "央视新闻app", 
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1", 
+            "province": null, 
+            "provinceId": ""
+        }, 
+        {
+            "pubDate": "1592127768000", 
+            "title": "印度德里计划改造酒店，增加2万张病床", 
+            "summary": "印度德里首都辖区政府：将在未来一周内通过改造全市的酒店和宴会厅来增加2万张病床，以应对德里地区愈加严重的疫情危机。此外，所有拥有10~49张病床的养护所都将被征用为新冠肺炎诊治机构，这将又增加5000张病床。", 
+            "infoSource": "央视新闻app", 
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1", 
+            "province": null, 
+            "provinceId": ""
+        }, 
+        {
+            "pubDate": "1592122382000", 
+            "title": "世卫组织：全球新冠肺炎确诊病例超过763万例", 
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日9时13分（北京时间6月14日15时13分），全球确诊新冠肺炎7633886例，死亡426317例。", 
+            "infoSource": "央视新闻app", 
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1", 
+            "province": null, 
+            "provinceId": ""
+        }
+    ], 
+    "success": true
+}

@@ -1,0 +1,17 @@
+list/
+obj/
+listing/
+RTE/
+matismart/
+DebugConfig/
+.pio/
+.vscode/
+*.crf
+*.dep
+*.map
+*.hex
+*.bin
+*.bak
+*.txt
+*.lst
+*.uvgu*

@@ -1,0 +1,43 @@
+/* 1000Bytes */
+#define api_type  "SSL"
+#define api_port  "443"
+#define api_ip    "47.102.117.253"
+#define api_addr  "https://lab.isaaclin.cn/nCoV/api/overall"
+
+{
+	"results": [{
+		"currentConfirmedCount": 180,	//现存确诊
+		"currentConfirmedIncr": 57,		//较昨日增加
+		"confirmedCount": 84731,		//累计确诊
+		"confirmedIncr": 60,			//较昨日增加
+		"suspectedCount": 1827,			//累计疑似感染
+		"suspectedIncr": 19,			//较昨日增加
+		"curedCount": 79906,			//累计治愈
+		"curedIncr": 3,					//较昨日增加
+		"deadCount": 4645,				//累计死亡
+		"deadIncr": 0,
+		"seriousCount": 103,			//累计重症
+		"seriousIncr": 5,
+		"globalStatistics": {
+			"currentConfirmedCount": 3774542,	//现存累计
+			"confirmedCount": 7740048,			//累计确诊
+			"curedCount": 3535767,				//累计治愈
+			"deadCount": 429739,				//累计死亡
+			"currentConfirmedIncr": -5953,		//较昨日确诊
+			"confirmedIncr": 9980,				//较昨日确诊
+			"curedIncr": 15571,					//较昨日治愈
+			"deadIncr": 362						//较昨日死亡
+		},
+		"generalRemark": "1. 3 鏈? 12 鏃ュ浗瀹跺崼鍋ュ纭瘖琛ヨ閬楁紡 12 渚嬬‘璇婄梾渚嬶紙闈? 12 鏃ユ柊澧烇級锛屾殏鏃犲叿浣撶渷浠戒俊鎭?? 2. 娴欐睙鐪? 12 渚嬪鐪佹不鎰堟殏鏃犲叿浣撶渷浠戒俊鎭??",
+		"remark1": "鏄撴劅浜虹兢锛氫汉缇ゆ櫘閬嶆槗鎰熴?傝?佸勾浜哄強鏈夊熀纭?鐤剧梾鑰呮劅鏌撳悗鐥呮儏杈冮噸锛屽効绔ュ強濠村辜鍎夸篃鏈夊彂鐥?",
+		"remark2": "娼滀紡鏈燂細涓?鑸负 3锝?7 澶╋紝鏈?闀夸笉瓒呰繃 14 澶╋紝娼滀紡鏈熷唴鍙兘瀛樺湪浼犳煋鎬э紝鍏朵腑鏃犵棁鐘剁梾渚嬩紶鏌撴?ч潪甯哥綍瑙?",
+		"remark3": "瀹夸富锛氶噹鐢熷姩鐗╋紝鍙兘涓轰腑鍗庤強澶磋潬",
+		"remark4": "",
+		"remark5": "",
+		"note1": "鐥呮瘨锛歋ARS-CoV-2锛屽叾瀵艰嚧鐤剧梾鍛藉悕 COVID-19",
+		"note2": "浼犳煋婧愶細鏂板啝鑲虹値鐨勬偅鑰呫?傛棤鐥囩姸鎰熸煋鑰呬篃鍙兘鎴愪负浼犳煋婧愩??",
+		"note3": "浼犳挱閫斿緞锛氱粡鍛煎惛閬撻娌?佹帴瑙︿紶鎾槸涓昏鐨勪紶鎾?斿緞銆傛皵婧惰兌浼犳挱鍜屾秷鍖栭亾绛変紶鎾?斿緞灏氬緟鏄庣‘銆?",
+		"updateTime": 1592106405831
+	}],
+	"success": true
+}

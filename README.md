@@ -8,13 +8,16 @@
 
 ## [描述](https://github.com/SoCXin/MM32W373/wiki)
 
-[MM32W373](https://github.com/SoCXin/MM32W373) 带有CAN的BLE MCU
+[MM32W373](https://github.com/SoCXin/MM32W373) 带有多种通信接口无线SoC
 
 [![sites](docs/MM32W373.png)](https://github.com/SoCXin/MM32W373)
 
-### 关键特性：
+#### 关键特性
 
-
+* BLE
+* CAN
+* USB
+* RTC
 
 ### [资源收录](https://github.com/SoCXin/MM32W373)
 
@@ -23,9 +26,6 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-* [MM32W051](https://github.com/SoCXin/MM32W051)
-* [MM32W073](https://github.com/SoCXin/MM32W073)
-* [MM32W373](https://github.com/SoCXin/MM32W373)
-
+[MM32W373](https://github.com/SoCXin/MM32W373) 相比 [MM32W073](https://github.com/SoCXin/MM32W073)具有内核优势
 
 ###  [SoC芯平台](http://www.SoC.Xin)
